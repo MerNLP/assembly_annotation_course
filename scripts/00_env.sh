@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Global variables (edit here once if anything changes)
+# Global variables 
 
 export USER_NAME="mlawrence"
 export ACCESSION="Kar-1"
