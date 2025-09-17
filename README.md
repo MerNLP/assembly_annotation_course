@@ -1,4 +1,4 @@
-# Genome & Transcriptome Assembly — Arabidopsis thaliana
+# Genome & Transcriptome Assembly
 
 This repository contains my work for the Genome and Transcriptome Assembly course.  
 It tracks all scripts and workflows used to assemble and analyse the Arabidopsis thaliana genome and transcriptome.
